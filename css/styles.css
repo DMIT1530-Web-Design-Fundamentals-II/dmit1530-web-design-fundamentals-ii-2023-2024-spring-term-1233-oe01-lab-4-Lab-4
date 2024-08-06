@@ -1,0 +1,27 @@
+:root {
+    --black: #11151f;
+    --dark-grey: #d4d4d4;
+    --grey-blue-hover: #283040;
+    --grey-blue: #374456;
+    --mid-grey: #f1f1f1;
+    --white: #fcfcfc;
+    --yellow: #e5b261;
+}
+
+body {
+    background-color: var(--white);
+    color: var(--black);
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+
+/* ON YOUR OWN
+
+    Write a special media query that only applies to the two smallest screen sizes. In these layouts, the brand (the logo and name of the company should):
+
+    1. be positioned at the top of the page
+    2. have white text
+    3. have a drop-shadow on the text
+
+*/
